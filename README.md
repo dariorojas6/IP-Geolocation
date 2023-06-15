@@ -1,1 +1,1 @@
-# Puqueña aplicacion para buscar informacion de una IP.
+# Pequeña aplicacion para buscar informacion de una IP.
